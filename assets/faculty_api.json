@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Fakultas Ut deleniti veniam similique tempore sunt eaque.",
+        "alias": "FaId asperiores tempora ad natus.",
+        "location": "https://goo.gl/maps/R6NaDdHGNfaLwp4cA",
+        "image": null,
+        "description": "Qui quae velit dolore voluptate mollitia quis et quisquam. Aliquid qui corporis aut ut. Accusantium quas iusto quibusdam rerum et voluptate. Incidunt nobis reprehenderit cumque fuga fugit. Ut distinctio quaerat sunt rem reprehenderit dolor.",
+        "instagram_link": "https://google.com",
+        "youtube_link": null,
+        "line_link": null,
+        "twitter_link": null,
+        "spotify_link": null,
+        "tiktok_link": "https://google.com",
+        "website_link": null
+    },
+    {
+        "id": 2,
+        "name": "Fakultas Dicta quis mollitia aut aut nesciunt quia.",
+        "alias": "FaDolores aspernatur esse et fugiat.",
+        "location": "https://goo.gl/maps/R6NaDdHGNfaLwp4cA",
+        "image": "https://images.unsplash.com/photo-1691064057997-ffe2483ab125?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=827&q=80",
+        "description": "Iure odit repellat est voluptatem voluptas quibusdam tenetur vitae. Quae cumque laborum est accusamus ea quos natus molestiae. Quibusdam id est sint et. Qui sed quis quia quos tempore ea minima et.",
+        "instagram_link": null,
+        "youtube_link": "https://google.com",
+        "line_link": null,
+        "twitter_link": "https://google.com",
+        "spotify_link": "https://google.com",
+        "tiktok_link": "https://google.com",
+        "website_link": null
+    },
+]
