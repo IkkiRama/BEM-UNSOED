@@ -115,9 +115,7 @@ class _DetailFakultasState extends State<DetailFakultas> {
                 } else {
                   var dataFakultas = snapshot.data;
                   final String name = dataFakultas['name'] ?? '';
-                  final String alias = dataFakultas['alias'] ?? '';
                   final String location = dataFakultas['location'] ?? '';
-                  final String image = dataFakultas['image'] ?? '';
                   final String description = dataFakultas['description'] ?? '';
                   final String instagram_link =
                       dataFakultas['instagram_link'] ?? '';
