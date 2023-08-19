@@ -94,12 +94,7 @@ class _DetailFakultasState extends State<DetailFakultas> {
                         fit: BoxFit.cover,
                       );
                     }
-                  })
-              // Image.network(
-              //   "https://firebasestorage.googleapis.com/v0/b/react-native-crud-fireba-ea6c9.appspot.com/o/Appsoed%2Fft%201.png?alt=media&token=e8348df7-c5a9-402c-994a-89c6949c459e",
-              //   fit: BoxFit.cover,
-              // ),
-              )),
+                  }))),
       SliverList(
           delegate: SliverChildListDelegate([
         Container(
@@ -154,7 +149,7 @@ class _DetailFakultasState extends State<DetailFakultas> {
                             GestureDetector(
                               onTap: () => {openSomething(location)},
                               child: Image.network(
-                                  "https://firebasestorage.googleapis.com/v0/b/react-native-crud-fireba-ea6c9.appspot.com/o/Appsoed%2FIcon%2Fmaps.png?alt=media&token=0aea1536-cc87-4c28-8ecd-0ee0915c15e2"),
+                                  "https://firebasestorage.googleapis.com/v0/b/react-native-crud-fireba-ea6c9.appspot.com/o/Appsoed%2FIcon%2Flocation_kost.png?alt=media&token=ed7d705d-8511-4286-b75e-f725d723cb80"),
                             ),
                             SizedBox(height: 25),
                             Row(
